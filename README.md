@@ -13,9 +13,9 @@
   </p>
   
   <p align="center">
-    <a href="[https://linkedin.com/in/asheesh-kumar](https://www.linkedin.com/in/asheesh-kumar-8682b91bb/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asheesh-kumar" /></a>
+    <a href="[https://linkedin.com/in/asheesh-kumar-8682b91bb]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asheesh-kumar" /></a>
     <a href="mailto:ashishkumar75497@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkumar75497" /></a>
-    <a href="https://github.com/asheeshk" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="asheeshk" /></a>
+    <a href="https://github.com/asheeshrajput12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="asheeshk" /></a>
   </p>
 </div>
 
