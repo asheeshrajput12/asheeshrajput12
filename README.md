@@ -3,7 +3,7 @@
   <h1 align="center">Hi, I'm Asheesh Kumar! 👋</h1>
   
   <h3>
-    Senior Android Engineer | Kotlin Specialist | 
+            Android Engineer | Kotlin Specialist | 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </h3>
   
