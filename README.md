@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-    <a href="[https://linkedin.com/in/asheesh-kumar-8682b91bb]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asheesh-kumar" /></a>
+    <a href="https://linkedin.com/in/asheesh-kumar-8682b91bb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asheesh-kumar" /></a>
     <a href="mailto:ashishkumar75497@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ashishkumar75497" /></a>
     <a href="https://github.com/asheeshrajput12" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="asheeshk" /></a>
   </p>
@@ -51,7 +51,7 @@ I don't just build apps; I build **systems**. My code powers automotive infotain
 * **Tech:** Kotlin, Room, MVVM, Coroutines.
 * **Highlight:** Maintained **60fps UI** on 2GB RAM devices via aggressive memory profiling.
 
-#### 2. [timeSATHI (Real-time Manager)](https://github.com/asheeshk/YOUR-REPO-LINK)
+#### 2. [timeSATHI (Real-time Manager)](https://github.com/asheeshrajput12/timeSATHI)
 > *A collaborative project management tool with live sync.*
 * **Tech:** Jetpack Compose, GraphQL, Firestore.
 * **Highlight:** Reduced sync latency to **<100ms** using optimistic UI updates.
@@ -64,17 +64,8 @@ I don't just build apps; I build **systems**. My code powers automotive infotain
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asheeshrajput12&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asheeshrajput12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=asheeshrajput12&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 <div align="center">
   <i>Let's build something scalable together.</i><br>
-  <b><a href="https://linkedin.com/in/asheesh-kumar">Connect on LinkedIn</a></b>
+  <b><a href="https://linkedin.com/in/asheesh-kumar01/">Connect on LinkedIn</a></b>
 </div>
