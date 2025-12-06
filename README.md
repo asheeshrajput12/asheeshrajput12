@@ -46,7 +46,7 @@ I don't just build apps; I build **systems**. My code powers automotive infotain
 
 ### 🏆 Top Projects
 
-#### 1. [Mobile UTS Clone (Offline-First)](https://github.com/asheeshk/YOUR-REPO-LINK)
+#### 1. [Mobile UTS Clone (Offline-First)](https://github.com/asheeshrajput12/mobile_uts)
 > *An optimized ticketing system engineered for low-end hardware.*
 * **Tech:** Kotlin, Room, MVVM, Coroutines.
 * **Highlight:** Maintained **60fps UI** on 2GB RAM devices via aggressive memory profiling.
